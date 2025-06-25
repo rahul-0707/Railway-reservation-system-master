@@ -1,0 +1,7 @@
+
+ Train_no:1111
+ Child_Fare:0.00
+ Adult_Fare:0.00
+ Total_fare(Without_Ins):0.00
+ Total_fare(With_Ins):0.00
+ 
